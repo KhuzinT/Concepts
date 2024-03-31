@@ -1,3 +1,0 @@
-/home/timur/workspace/con/Concepts/vm/build/CMakeFiles/main.dir
-/home/timur/workspace/con/Concepts/vm/build/CMakeFiles/edit_cache.dir
-/home/timur/workspace/con/Concepts/vm/build/CMakeFiles/rebuild_cache.dir

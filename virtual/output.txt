@@ -1,0 +1,31 @@
+$ Virtual table for Base initialized
+$ Virtual table for Derived initialized
++ Method BaseMethod added to Base
++ Method BaseOverride added to Base
++ Method BaseOverride added to Derived
++ Method BaseMethod added to Derived
++ Method DerivedMethod added to Derived
++ Method DerivedOverride added to Derived
+----------------------------------------------------
+* Not virtual Base Method
+-- Method BaseMethod done successfully
+* Base method to override
+-- Method BaseOverride done successfully
+----------------------------------------------------
+!! Something went wrong with DerivedMethod
+!! Something went wrong with DerivedOverride
+----------------------------------------------------
+* Not virtual Base Method
+-- Method BaseMethod done successfully
+* Not virtual Derived Method
+-- Method DerivedMethod done successfully
+* Overridden Derived Method
+-- Method DerivedOverride done successfully
+----------------------------------------------------
+* Not virtual Base Method
+-- Method BaseMethod done successfully
+* Not virtual Derived Method
+-- Method DerivedMethod done successfully
+* Overridden Derived Method
+-- Method DerivedOverride done successfully
+----------------------------------------------------
